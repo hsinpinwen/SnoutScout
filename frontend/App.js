@@ -7,7 +7,6 @@ const pets = [
   { id: 1, name: 'Fluffy', description: 'Friendly and playful cat', image: require('./assets/cat1.jpg') },
   { id: 2, name: 'Max', description: 'Loyal and energetic cat', image: require('./assets/cat2.jpg') },
   { id: 3, name: 'Bella', description: 'Cute and cuddly cat', image: require('./assets/cat3.jpg') },
-  // Add more pets here
 ];
 
 const App = () => {
